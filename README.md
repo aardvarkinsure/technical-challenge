@@ -1,41 +1,35 @@
 
-<img src="img/aardy-logo.png" alt="drawing" width="200" style="margin-bottom:40px"/>
+<img src="resources/images/aardy-logo.png" alt="drawing" width="200" style="margin-bottom:40px"/>
 
-# Technical Challenge 🍺
+# Technical challenge
 
-Thanks for your interest in working at Aardy.com, one of the leading travel insurance marketplaces in the USA. We have developed this small (yet very simple) task for you to work on in your own time so that we can see how you approach a problem and hopefully serve as a discussion point going forwards.
+Thanks for your interest in working at Aardy.com, one of the leading travel insurance marketplaces in the USA. We have developed this task for you to work on in your own time so that we can see how you approach a problem and hopefully serve as a discussion point going forwards.
 
 Try to spend less than two hours on the task and don't worry if you don't finish! We prefer to see quality over quantity.
 
 Please implement the task however you like, but **please use React**.
 
-----
-
 ## The task
 
-Using the Punk Beer API, build a front-end application that presents a list of beers to the user, with associated images. The design and amount of information to display is completely up to you.
+Create a quote results layout screen using React, CSS and state management. Copy the design as close as visually possible (no specs given, on purpose).
 
-It should meet the following use cases:
+You can find the plan data inside resources/data/plans.json and the provider images inside resources/images/providers.
 
-> As a customer I can view a list of available beers on my mobile, tablet and desktop so that I can celebrate my new job
+Once you have the design and data populated as per screen 1. The only functionality you need to implement is the **Purchase** button. Once this is clicked, you need to display a new page that shows the selected product as per screen 2.
 
-> As a customer I can view more details of a beer so that I can decide it's right for me before purchase
+You will need to save the state of the selected policy, how you do this is up to you.
 
-## Bonus task(s)
+**Note:** you do NOT have to implement anything else.
 
-We appreciate that your free time is important. Therefore if you feel your code is unfinished please leave some notes in your README.md explaining what you would do next given more time.
+**Screen 1**
+---
 
-If you want a challenge, try some of these:
+<img src="resources/images/screen1.png" alt="drawing" width="100%" style="margin-bottom:40px"/>
 
-- Add the ability to sort by name, strength etc
-- Micro animations?
-- Add unit tests
-- Host this on the web somewhere
+**Screen 2**
+---
 
-## API
-
-- Please create documentation for the steps required to run the project.
-- Punk API can be found here - https://punkapi.com/documentation/v2
+<img src="resources/images/screen2.png" alt="drawing" width="100%" style="margin-bottom:40px"/>
 
 ## What do we look for?
 
@@ -43,7 +37,7 @@ We will assess the task based on the following criteria:
 
 - How clean, modular and extensible the code is
 - The techniques used to style the application
-- Responsive web design techniques used
+- Responsive techniques used
 - Accessibility
 - Approach to testing
 - Anything that goes above and beyond

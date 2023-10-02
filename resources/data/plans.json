@@ -1,0 +1,76 @@
+{
+    "plans": [
+        {
+            "planName": "Silver",
+            "providerName": "AXA Assistance USA",
+            "price": 140,
+            "medicalCoverageForCovid": "covered",
+            "medicalEvacuation": 100000,
+            "baggageLoss": 500,
+            "tripCancellation": 4000,
+            "tripInterruption": 6000,
+            "cancelForCovid": "covered",
+            "policyDetail": "https://www.axatravelinsurance.com/plan-detail/silver"
+        },
+        {
+            "planName": "Gold",
+            "providerName": "AIG",
+            "price": 180,
+            "medicalCoverageForCovid": "covered",
+            "medicalEvacuation": 250000,
+            "baggageLoss": 750,
+            "tripCancellation": 6000,
+            "tripInterruption": 8000,
+            "cancelForCovid": "not covered",
+            "policyDetail": "https://www.travelguard.com/plan-detail/gold"
+        },
+        {
+            "planName": "Platinum",
+            "providerName": "IMG",
+            "price": 230,
+            "medicalCoverageForCovid": "covered",
+            "medicalEvacuation": 300000,
+            "baggageLoss": 1000,
+            "tripCancellation": 10000,
+            "tripInterruption": 12000,
+            "cancelForCovid": "covered",
+            "policyDetail": "https://www.IMG.com/plan-detail/platinum"
+        },
+        {
+            "planName": "Economy",
+            "providerName": "Travelex",
+            "price": 90,
+            "medicalCoverageForCovid": "covered",
+            "medicalEvacuation": 50000,
+            "baggageLoss": 250,
+            "tripCancellation": 2000,
+            "tripInterruption": 3000,
+            "cancelForCovid": "not covered",
+            "policyDetail": "https://www.Travelex.com/plan-detail/economy"
+        },
+        {
+            "planName": "Adventure",
+            "providerName": "Seven Corners",
+            "price": 210,
+            "medicalCoverageForCovid": "not covered",
+            "medicalEvacuation": 150000,
+            "baggageLoss": 700,
+            "tripCancellation": 7000,
+            "tripInterruption": 9000,
+            "cancelForCovid": "covered",
+            "policyDetail": "https://www.SevenCorners.com/plan-detail/adventure"
+        },
+        {
+            "planName": "Family First",
+            "providerName": "Trawick International",
+            "price": 260,
+            "medicalCoverageForCovid": "covered",
+            "medicalEvacuation": 200000,
+            "baggageLoss": 1200,
+            "tripCancellation": 12000,
+            "tripInterruption": 15000,
+            "cancelForCovid": "not covered",
+            "policyDetail": "https://www.TrawickInternational.com/plan-detail/family-first"
+        }
+    ]
+}

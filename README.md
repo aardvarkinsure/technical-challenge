@@ -22,12 +22,6 @@ Please implement the task using these technologies and approaches.
 
 Using the Jelly Belly API, build a front-end application that presents a list of jelly beans to the user, with associated images. The design and amount of information to display is completely up to you.
 
-It should meet the following use cases:
-
-> As a customer I can view a list of available jelly beans on my mobile, tablet and desktop so that I can satisfy my sweet tooth
-
-> As a customer I can view more details of a jelly bean so that I can decide if it's the right flavor for me
-
 ## Bonus task(s)
 
 We appreciate that your free time is important. Therefore if you feel your code is unfinished please leave some notes in your README.md explaining what you would do next given more time.

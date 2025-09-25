@@ -8,11 +8,11 @@ Try to spend less than two hours on the task and don't worry if you don't finish
 
 ## Requirements
 
-1. **Partial Prerendering**: Implement NextJS partial prerendering feature (REQUIRED)
-2. **NextJS**: Use the latest version of NextJS (REQUIRED)
+1. **NextJS**: Use the latest version of NextJS (REQUIRED)
+2. **Partial Prerendering**: Implement NextJS partial prerendering feature (REQUIRED) - [Documentation](https://nextjs.org/docs/app/getting-started/partial-prerendering)
 3. **Styling**: Use Tailwind CSS for styling
 4. **AI Assistance**: AI tools are allowed and encouraged
-5. **Design**: Design is unimportant, focus on functionality
+5. **Design**: Design is not crucial, so keep clean and focus on functionality
 
 Please implement the task using these technologies and approaches.
 

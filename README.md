@@ -1,43 +1,58 @@
-
 <img src="resources/images/aardy-logo.png" alt="drawing" width="200" style="margin-bottom:40px"/>
 
-# Technical challenge
+# Technical Challenge 🍬
 
-Thanks for your interest in working at Aardy.com, one of the leading travel insurance marketplaces in the USA. We have developed this task for you to work on in your own time so that we can see how you approach a problem and hopefully serve as a discussion point going forwards.
+Thanks for your interest in working at Aardy.com, one of the leading travel insurance marketplaces in the USA. We have developed this small (yet very simple) task for you to work on in your own time so that we can see how you approach a problem and hopefully serve as a discussion point going forwards.
 
 Try to spend less than two hours on the task and don't worry if you don't finish! We prefer to see quality over quantity.
 
-Please implement the task however you like, but **please use React**.
+## Requirements
+
+- **NextJS**: Use the latest version of NextJS
+- **Styling**: Use Tailwind CSS for styling
+- **Partial Prerendering**: Implement NextJS partial prerendering feature
+- **AI Assistance**: AI tools are allowed and encouraged
+- **Design**: Design is unimportant, focus on functionality
+
+Please implement the task using these technologies and approaches.
+
+---
 
 ## The task
 
-Create a quote results layout screen using React, CSS and state management. Copy the design as close as visually possible (no specs given, on purpose).
+Using the Jelly Belly API, build a front-end application that presents a list of jelly beans to the user, with associated images. The design and amount of information to display is completely up to you.
 
-You can find the plan data inside resources/data/plans.json and the provider images inside resources/images/providers.
+It should meet the following use cases:
 
-Once you have the design and data populated as per screen 1. The only functionality you need to implement is the **Purchase** button. Once this is clicked, you need to display a new page that shows the selected product as per screen 2.
+> As a customer I can view a list of available jelly beans on my mobile, tablet and desktop so that I can satisfy my sweet tooth
 
-You will need to save the state of the selected policy, how you do this is up to you.
+> As a customer I can view more details of a jelly bean so that I can decide if it's the right flavor for me
 
-**Note:** you do NOT have to implement anything else.
+## Bonus task(s)
 
-**Screen 1**
----
+We appreciate that your free time is important. Therefore if you feel your code is unfinished please leave some notes in your README.md explaining what you would do next given more time.
 
-<img src="resources/images/screen1.png" alt="drawing" width="100%" style="margin-bottom:40px"/>
+If you want a challenge, try some of these:
 
-**Screen 2**
----
+- Add the ability to sort by name, flavor group, sugar-free status, etc.
+- Implement filtering by flavor groups (e.g., "Sugar-Free Assorted Flavors", "Superfruit Flavors")
 
-<img src="resources/images/screen2.png" alt="drawing" width="100%" style="margin-bottom:40px"/>
+## API
+
+- Please create documentation for the steps required to run the project.
+- Jelly Belly API can be found here: https://jellybellywikiapi.onrender.com/api/Beans?pageIndex=1&pageSize=200
+- API Documentation: https://jelly-belly-wiki.netlify.app/api
+- Example API response includes jelly bean data with flavor names, descriptions, ingredients, images, and metadata like sugar-free status and flavor groups.
 
 ## What do we look for?
 
 We will assess the task based on the following criteria:
 
 - How clean, modular and extensible the code is
-- The techniques used to style the application
-- Responsive techniques used
+- Implementation of NextJS partial prerendering
+- Proper use of Tailwind CSS for styling
+- Responsive web design techniques used
 - Accessibility
 - Approach to testing
+- Effective use of AI tools (if applicable)
 - Anything that goes above and beyond

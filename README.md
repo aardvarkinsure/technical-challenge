@@ -35,7 +35,7 @@ If you want a challenge, try some of these:
 
 - Please create documentation for the steps required to run the project.
 - Jelly Belly API can be found here: https://jellybellywikiapi.onrender.com/api/Beans?pageIndex=1&pageSize=200
-- API Documentation: https://jelly-belly-wiki.netlify.app/api
+- API Documentation: https://jelly-belly-wiki.netlify.app
 - Example API response includes jelly bean data with flavor names, descriptions, ingredients, images, and metadata like sugar-free status and flavor groups.
 
 ## What do we look for?
